@@ -1,5 +1,6 @@
 console.log('test');
 
+// this is a fun function
 var funFunFunction = function () {
   var theFunThing = prompt('What is funny?');
   console.log(theFunThing);
